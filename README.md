@@ -4,7 +4,7 @@
 
 Ознакомьтесь с моим [портфолио](https://vadim-strakhov.github.io/), чтобы узнать больше о моей работе.
 
-Навыки: React / JS / Html / CSS / Sass / Bootstrap / PHP / WordPress
+Навыки:  Html / CSS / Sass / Bootstrap / JavaScript / React
 
 Всегда открыт и готов обсудить новые возможности для сотрудничества.
 Свяжитесь со мной через мой профиль на GitHub или в [Telegram](https://t.me/Strahov_Vadim/).
