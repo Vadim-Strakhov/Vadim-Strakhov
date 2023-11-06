@@ -7,4 +7,4 @@
 Навыки:  Html / CSS / Sass / Bootstrap / JavaScript / React
 
 Всегда открыт и готов обсудить новые возможности для сотрудничества.
-Свяжитесь со мной через мой профиль в [Telegram](https://t.me/Strakhov_Vadim/).
+Свяжитесь со мной в [Telegram](https://t.me/Strakhov_Vadim/).
