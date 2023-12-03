@@ -4,7 +4,7 @@
 
 Ознакомьтесь с моим [портфолио](https://vadim-strakhov.github.io/), чтобы узнать больше о моей работе.
 
-Навыки:
+Мои навыки:
 
 React /  JavaScript / Html /  CSS /  Sass /  Webpack /  Gulp /  Bootstrap /
 
