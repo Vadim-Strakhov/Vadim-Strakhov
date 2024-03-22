@@ -16,4 +16,4 @@ React / JavaScript / Html / CSS / Sass / Webpack / Gulp / Bootstrap / WordPress
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer">![WordPress](wp.svg)</a>
 
 Всегда открыт и готов обсудить новые возможности для сотрудничества.
-Свяжитесь со мной в [Telegram](https://t.me/Strakhov_Vadim/).
+Свяжитесь со мной в [Telegram](https://t.me/Vadim_Strakhov).
